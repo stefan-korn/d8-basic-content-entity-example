@@ -1,0 +1,7 @@
+entity.docuware_subscribe_subscribepage.SubscribePage_add:
+  path: '/sk/contactform/add'
+  defaults:
+    _entity_form: sk_contactform.add
+    _title: 'Send contact message'
+  requirements:
+    _permission: 'access content'

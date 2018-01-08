@@ -1,0 +1,5 @@
+name: SK Contactform
+type: module
+description: 'Contactform for SK Webentwicklung website'
+package: SK
+core: 8.x
