@@ -1,4 +1,4 @@
-entity.docuware_subscribe_subscribepage.SubscribePage_add:
+entity.sk_contactform.SKContactForm_add:
   path: '/sk/contactform/add'
   defaults:
     _entity_form: sk_contactform.add
