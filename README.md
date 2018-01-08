@@ -12,10 +12,11 @@ Another example for a config is provided in Examples module
 https://www.drupal.org/project/examples
 Example given there has a lot more to it and if working from there it is maybe
 a bit harder to get your head around all the things used there and to determine what
-you might need and what you do not need
+you might need and what you do not need.
 
-So my intention here is to provide a very basic implementation and explain options
-and effects basically for my own reference.
+So my intention here is to provide a very basic implementation (but with some more features
+as the very basic example on drupal.org) and explain settings and effects here,
+basically for my own reference.
 
 At this moment the example provides the following:
 
